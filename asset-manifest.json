@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/boostoapp/static/css/main.8f5b387c.css",
+    "main.js": "/boostoapp/static/js/main.45de258e.js",
+    "static/media/Ellipse 5.png": "/boostoapp/static/media/Ellipse 5.2677d13d24456b7b4a09.png",
+    "index.html": "/boostoapp/index.html",
+    "main.8f5b387c.css.map": "/boostoapp/static/css/main.8f5b387c.css.map",
+    "main.45de258e.js.map": "/boostoapp/static/js/main.45de258e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f5b387c.css",
+    "static/js/main.45de258e.js"
+  ]
+}
